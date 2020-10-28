@@ -1,0 +1,36 @@
+package Assignment1;
+
+import java.util.*;
+
+
+public class Assignment1b {
+
+	public static void main(String[] args) {
+		String carUserInputChk;
+		HashMap<String, String> car = new HashMap<>();
+        car.put("Honda","CRV");
+        car.put("Honda","Civic");
+        car.put("Toyota","RAV4");
+        car.put("BMW","X5");
+        car.put("Mazda","CX5");
+        car.put("Audi","Q5");
+		
+        Scanner userdata = new Scanner(System.in);
+        System.out.print("Enter numbers separated by space: ");
+        String strCarKey = null;
+        if (userdata.hasNextLine()) {
+        	strCarKey = userdata.nextLine();
+        }
+        
+        if (strCarKey != null) {
+        	carUserInputChk = car.get(strCarKey.toLowerCase());
+        	if (carUserInputChk == null) {
+        		System.out.print("mali");
+        	} else {
+        		System.out.print("korak");
+        	}
+        	
+        }
+	}
+
+}
