@@ -1,0 +1,13 @@
+Describe the purpose of use case diagram?
+A representation on how different users uses the system and its functionality depending on the business process thay do at their work.
+
+How object oriented concepts are related to UML?
+UML diagrams are used to interpret object oriented concepts so that non tech ppl can understand.
+
+Is component diagram representing the dynamic view of a system?
+Component diagram is a structural diagram not a behavioral/dynamic view
+
+Name major building blocks of UML?
+Things
+Relationships
+Diagrams

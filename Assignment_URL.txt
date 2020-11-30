@@ -1,0 +1,5 @@
+https://github.com/michelledyan123/JavaPractice
+loop numbers = https://github.com/michelledyan123/JavaPractice/blob/main/Assignment1/src/Assignment1/Assignment1a.java
+hashmap = https://github.com/michelledyan123/JavaPractice/blob/main/Assignment1/src/Assignment1/Assignment1b.java
+pet.java = https://github.com/michelledyan123/JavaPractice/blob/main/Assignment1/src/Assignment1/pet.java
+\.java = https://github.com/michelledyan123/JavaPractice/blob/main/Assignment1/src/Assignment1/car.java
